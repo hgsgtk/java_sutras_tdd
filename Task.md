@@ -4,3 +4,7 @@
 - [ ] amount make public private
 - [x] how to solve the reaction of Dollar
 - [ ] how to implement rounding Money
+- [x] equals()
+- [ ] hashCode()
+- [ ] comparison with null
+- [ ] comparoson with other object
