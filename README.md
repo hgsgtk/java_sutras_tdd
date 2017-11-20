@@ -11,4 +11,4 @@
 - [ ] Dollar and Franc are duplicates
 - [x] Generalization of equal method
 - [ ] Generalization of times method
-- [ ] comparison Franc and Dollar
+- [x] comparison Franc and Dollar
