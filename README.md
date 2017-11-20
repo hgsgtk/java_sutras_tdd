@@ -13,3 +13,5 @@
 - [x] Generalization of equal method
 - [ ] Generalization of times method
 - [x] comparison Franc and Dollar
+- [x] concept of currency
+- [ ] Should delete testFrancMultiplication?
