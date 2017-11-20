@@ -9,5 +9,6 @@
 - [ ] comparison with null
 - [ ] comparison with other object
 - [ ] Dollar and Franc are duplicates
-- [ ] Generalization of equal method
+- [x] Generalization of equal method
 - [ ] Generalization of times method
+- [ ] comparison Franc and Dollar
