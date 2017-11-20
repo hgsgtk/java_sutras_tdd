@@ -1,4 +1,4 @@
-# Tasks
+# TDD TODO Lists
 - [ ] $5 + 10 CHF = $10
 - [x] $5 * 2 = $10
 - [x] amount make public private
@@ -7,4 +7,7 @@
 - [x] equals()
 - [ ] hashCode()
 - [ ] comparison with null
-- [ ] comparoson with other object
+- [ ] comparison with other object
+- [ ] Dollar and Franc are duplicates
+- [ ] Generalization of equal method
+- [ ] Generalization of times method
