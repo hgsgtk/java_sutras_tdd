@@ -9,9 +9,9 @@
 - [ ] comparison with null
 - [ ] comparison with other object
 - [x] 5 CHF * 2 = 10 CHF
-- [ ] Dollar and Franc are duplicates
+- [x] Dollar and Franc are duplicates
 - [x] Generalization of equal method
 - [x] Generalization of times method
 - [x] comparison Franc and Dollar
 - [x] concept of currency
-- [ ] Should delete testFrancMultiplication?
+- [x] Should delete testFrancMultiplication?
