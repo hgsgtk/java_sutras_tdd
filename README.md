@@ -1,11 +1,11 @@
 # TODO Lists
-- [ ] $5 + 10 CHF = $10
+- [x] $5 + 10 CHF = $10
 - [x] $5 + $5 = $10
-- [ ] expression '$5 + $5' return Class Money 
+- [x] expression '$5 + $5' return Class Money 
 - [x] Bank.reduce(Money)
 - [x] Convert Money
 - [x] Reduce(Bank, String)
-- [ ] Exoression.times
+- [x] Expression.times
 
 # Archiverd TODO Lists
 - [xo] $5 * 2 = $10
