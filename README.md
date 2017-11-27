@@ -1,5 +1,9 @@
-# TDD TODO Lists
+# TODO Lists
 - [ ] $5 + 10 CHF = $10
+- [ ] $5 + $5 = $10
+- [ ] expression '$5 + $5' return Class Money 
+
+# Archiverd TODO Lists
 - [x] $5 * 2 = $10
 - [x] amount make public private
 - [x] how to solve the reaction of Dollar
