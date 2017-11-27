@@ -1,10 +1,13 @@
 # TODO Lists
 - [ ] $5 + 10 CHF = $10
-- [ ] $5 + $5 = $10
+- [x] $5 + $5 = $10
 - [ ] expression '$5 + $5' return Class Money 
+- [x] Bank.reduce(Money)
+- [x] Convert Money
+- [x] Reduce(Bank, String)
 
 # Archiverd TODO Lists
-- [x] $5 * 2 = $10
+- [xo] $5 * 2 = $10
 - [x] amount make public private
 - [x] how to solve the reaction of Dollar
 - [ ] how to implement rounding Money
