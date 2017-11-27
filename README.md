@@ -5,6 +5,7 @@
 - [x] Bank.reduce(Money)
 - [x] Convert Money
 - [x] Reduce(Bank, String)
+- [ ] Exoression.times
 
 # Archiverd TODO Lists
 - [xo] $5 * 2 = $10
